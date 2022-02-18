@@ -5,8 +5,10 @@ Basic INFO-
   350mmx350mmx350mm spec
   BTT octopus Board
   hartk 3.2 toolhead Board
-  
+  stealthburner 
+
 Current Mods-
- ABBN
- Klicky
+ nozzle brush
+ orbiter extruder
  Nevermore
+ 
